@@ -1,5 +1,5 @@
 Hey, this is ThunderGuy77.
-I am a high school programmer, YouTuber, and gamer, amongst other things.
+I am a programmer, graphic designer, video editor, and game dev, amongst other things.
 I'm learning more about programming every day so my projects should keep getting better and better.
 Check out my personal website at https://bit.ly/thunderguy! Or just find it here on GitHub.
 
